@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+  padding-top: 50px;
+  display: flex;
+  justify-content: center;
+  font-family: cursive;
+  align-items: center;
+}

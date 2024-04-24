@@ -1,0 +1,9 @@
+.selected-dates {
+    flex: 1;
+    padding: 20px;
+    border-left: 1px solid #ccc;
+  }
+  
+  .selected-dates h2 {
+    color: #7171b5;
+  }
